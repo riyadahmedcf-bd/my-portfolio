@@ -2,14 +2,14 @@ body {
     font-family: Copperplate, fantasy;
     margin: 0;
     padding: 0;
-    background-color: #f4f4f9;
-    color: #333;
+    background-color: hsl(240, 86%, 51%);
+    color: hsl(0, 94%, 51%);
     text-align: center;
 }
 
 header {
-    background-color: #1e293b;
-    color: white;
+    background-color: #020305;
+    color: #f50689;
     padding: 50px 20px;
 }
 
